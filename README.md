@@ -1,11 +1,11 @@
 # Inventory Management System
 -----------
 ## Project Description
-This Library management System explores object oriented programming in PHP. Both the books and the libary are instances of PHP classes, and the library contains a variety of methods for managing a list of book objects. This project explore various aspects of creating and using function in PHP. The library management system allows users to view the saved book items, search for, check out, check in, as well as add and remove books from the library.
+This Library Management System explores object-oriented programming in PHP. Both the books and the library are instances of PHP classes, and the library contains a variety of methods for managing a list of book objects. This project explores various aspects of creating and using functions in PHP. The library management system allows users to view the saved book items, search for, check out, check-in, as well as add and remove books from the library.
 
 ### This Project Explores
 - PHP functions
-    - inlcuding function definitions
+    - including function definitions
     - parameters
     - return types
     - function calls
